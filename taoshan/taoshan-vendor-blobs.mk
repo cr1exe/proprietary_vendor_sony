@@ -105,9 +105,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/taoshan/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/sony/taoshan/proprietary/lib/libfastcvopt.so:system/lib/libfastcvopt.so \
     vendor/sony/taoshan/proprietary/lib/libgemini.so:system/lib/libgemini.so \
-    vendor/sony/taoshan/proprietary/lib/libgenlock.so:system/lib/libgenlock.so \
     vendor/sony/taoshan/proprietary/lib/libgsl.so:system/lib/libgsl.so \
-    vendor/sony/taoshan/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/sony/taoshan/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/sony/taoshan/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/sony/taoshan/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
@@ -148,9 +146,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/taoshan/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
     vendor/sony/taoshan/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/sony/taoshan/proprietary/lib/libqdi.so:system/lib/libqdi.so \
-    vendor/sony/taoshan/proprietary/lib/libqdMetaData.so:system/lib/libqdMetaData.so \
     vendor/sony/taoshan/proprietary/lib/libqdp.so:system/lib/libqdp.so \
-    vendor/sony/taoshan/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
     vendor/sony/taoshan/proprietary/lib/libqmi_cci.so:system/lib/libqmi_cci.so \
     vendor/sony/taoshan/proprietary/lib/libqmi_client_qmux.so:system/lib/libqmi_client_qmux.so \
     vendor/sony/taoshan/proprietary/lib/libqmi_common_so.so:system/lib/libqmi_common_so.so \
