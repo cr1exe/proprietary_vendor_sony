@@ -88,7 +88,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/taoshan/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/sony/taoshan/proprietary/lib/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
     vendor/sony/taoshan/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
-    vendor/sony/taoshan/proprietary/lib/libc2dcolorconvert.so:system/lib/libc2dcolorconvert.so \
     vendor/sony/taoshan/proprietary/lib/libchromatix_imx134_default_video.so:system/lib/libchromatix_imx134_default_video.so \
     vendor/sony/taoshan/proprietary/lib/libchromatix_imx134_hfr_120fps.so:system/lib/libchromatix_imx134_hfr_120fps.so \
     vendor/sony/taoshan/proprietary/lib/libchromatix_imx134_hfr_60fps.so:system/lib/libchromatix_imx134_hfr_60fps.so \
